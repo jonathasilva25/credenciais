@@ -1,7 +1,10 @@
 {
-  "valid_keys": [
-    "ABC123",
-    "DEF456",
-    "GHI789"
+  "usuarios": [
+    { "usuario": "admin", "senha": "123456" },
+    { "usuario": "jonas", "senha": "abc123" }
+  ],
+  "chaves": [
+    "CHAVE-TESTE-01",
+    "CHAVE-OUTRA-02"
   ]
 }
